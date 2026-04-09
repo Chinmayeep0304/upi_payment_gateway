@@ -1,0 +1,4 @@
+simonspeckciphers
+qrcode
+pillow
+prettytable
